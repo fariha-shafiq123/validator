@@ -1,4 +1,0 @@
-lxml
-ipywidgets
-ipython
-streamlit
